@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Will you be my girlfriend?",                                    // First interaction
+            text: "Will you be my பத்தாவது girlfriend?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "No, I will be your பதினாறாவது girlfriend"           // Secret hover message
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: false,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://www.masstamilan.dev/downloader/uDmp1NqpNusbv-wztAL-pw/1770400703/d128_cdn/7054/MTI0LjEyMy44MS4xOTA=", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
