@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: false,                     // Music feature is enabled
+        enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://www.masstamilan.dev/downloader/uDmp1NqpNusbv-wztAL-pw/1770400703/d128_cdn/7054/MTI0LjEyMy44MS4xOTA=", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
